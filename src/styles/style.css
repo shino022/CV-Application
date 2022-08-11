@@ -1,0 +1,10 @@
+.container>* {
+  position: absolute;
+  display: inline;
+}
+label span {
+  margin-right: 5px;
+}
+.hidden {
+  display: none;
+}
