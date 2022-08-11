@@ -2,9 +2,18 @@
   position: absolute;
   display: inline;
 }
-label span {
-  margin-right: 5px;
+
+label>span {
+  font-weight: bold;
 }
+
+.outer-container {
+  margin-bottom:10px;
+}
+
+.text {
+}
+
 .hidden {
   display: none;
 }
