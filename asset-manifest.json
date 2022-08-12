@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CV-Application.git/static/css/main.49a40c79.css",
-    "main.js": "/CV-Application.git/static/js/main.f00104a9.js",
-    "index.html": "/CV-Application.git/index.html",
-    "main.49a40c79.css.map": "/CV-Application.git/static/css/main.49a40c79.css.map",
-    "main.f00104a9.js.map": "/CV-Application.git/static/js/main.f00104a9.js.map"
+    "main.css": "/CV-Application/static/css/main.49a40c79.css",
+    "main.js": "/CV-Application/static/js/main.f00104a9.js",
+    "index.html": "/CV-Application/index.html",
+    "main.49a40c79.css.map": "/CV-Application/static/css/main.49a40c79.css.map",
+    "main.f00104a9.js.map": "/CV-Application/static/js/main.f00104a9.js.map"
   },
   "entrypoints": [
     "static/css/main.49a40c79.css",
